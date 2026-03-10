@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Green Basket Market",
+    "type": "grocery",
+    "itemTypes": ["vegetables", "fruits", "grains"],
+    "location": { "city": "Addis Ababa", "area": "Bole" },
+    "workHours": { "open": "08:00", "close": "21:00" },
+    "contactInfo": {
+      "phone": "+251911000001",
+      "email": "greenbasket1@example.com"
+    }
+  },
+  {
+    "name": "Bole Electronics Hub",
+    "type": "electronics",
+    "itemTypes": ["phones", "laptops", "accessories"],
+    "location": { "city": "Addis Ababa", "area": "Bole" },
+    "workHours": { "open": "09:00", "close": "20:00" },
+    "contactInfo": {
+      "phone": "+251911000002",
+      "email": "bolehub@example.com"
+    }
+  },
+  {
+    "name": "Sunrise Bakery",
+    "type": "bakery",
+    "itemTypes": ["bread", "cakes", "pastries"],
+    "location": { "city": "Addis Ababa", "area": "Kazanchis" },
+    "workHours": { "open": "06:00", "close": "19:00" },
+    "contactInfo": {
+      "phone": "+251911000003",
+      "email": "sunrisebakery@example.com"
+    }
+  },
+  {
+    "name": "Fashion Point",
+    "type": "clothing",
+    "itemTypes": ["shirts", "jeans", "jackets"],
+    "location": { "city": "Addis Ababa", "area": "Piassa" },
+    "workHours": { "open": "09:00", "close": "20:00" },
+    "contactInfo": {
+      "phone": "+251911000004",
+      "email": "fashionpoint@example.com"
+    }
+  },
+  {
+    "name": "City Pharmacy",
+    "type": "pharmacy",
+    "itemTypes": ["medication", "vitamins", "first aid"],
+    "location": { "city": "Addis Ababa", "area": "CMC" },
+    "workHours": { "open": "08:00", "close": "22:00" },
+    "contactInfo": {
+      "phone": "+251911000005",
+      "email": "citypharmacy@example.com"
+    }
+  },
+
+  {
+    "name": "Tech Planet",
+    "type": "electronics",
+    "itemTypes": ["tablets", "phones", "chargers"],
+    "location": { "city": "Addis Ababa", "area": "Megenagna" },
+    "workHours": { "open": "09:00", "close": "19:30" },
+    "contactInfo": {
+      "phone": "+251911000006",
+      "email": "techplanet@example.com"
+    }
+  },
+  {
+    "name": "Fresh Farm Shop",
+    "type": "grocery",
+    "itemTypes": ["vegetables", "milk", "eggs"],
+    "location": { "city": "Addis Ababa", "area": "Sarbet" },
+    "workHours": { "open": "07:00", "close": "21:00" },
+    "contactInfo": {
+      "phone": "+251911000007",
+      "email": "freshfarm@example.com"
+    }
+  },
+  {
+    "name": "Golden Shoe Store",
+    "type": "footwear",
+    "itemTypes": ["sneakers", "boots", "sandals"],
+    "location": { "city": "Addis Ababa", "area": "Bole" },
+    "workHours": { "open": "09:30", "close": "20:00" },
+    "contactInfo": {
+      "phone": "+251911000008",
+      "email": "goldenshoe@example.com"
+    }
+  },
+  {
+    "name": "Stationery World",
+    "type": "stationery",
+    "itemTypes": ["notebooks", "pens", "office supplies"],
+    "location": { "city": "Addis Ababa", "area": "Arat Kilo" },
+    "workHours": { "open": "08:30", "close": "18:30" },
+    "contactInfo": {
+      "phone": "+251911000009",
+      "email": "stationeryworld@example.com"
+    }
+  },
+  {
+    "name": "Coffee Corner Shop",
+    "type": "coffee",
+    "itemTypes": ["coffee beans", "ground coffee", "coffee tools"],
+    "location": { "city": "Addis Ababa", "area": "Bole" },
+    "workHours": { "open": "07:00", "close": "20:00" },
+    "contactInfo": {
+      "phone": "+251911000010",
+      "email": "coffeecorner@example.com"
+    }
+  }
+]
